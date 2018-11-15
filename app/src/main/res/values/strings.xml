@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="MainActivity_button_login">LOGIN</string>
+    <string name="ProfileTittle">Profile</string>
+    <string name="text_share">SHARE PROFILE</string>
+    <string name="hint_password"><font size="15">Password</font></string>
+    <string name="hint_username"><font size="15">Email</font></string>
+</resources>
